@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Bonjour, je suis [Darwin Nathan] 👋
+# Bonjour, je suis Darwin Nathan 👋
 
 Je suis un développeur web fullstack passionné, spécialisé dans la création d'applications web performantes et évolutives. Avec une expertise dans des technologies modernes, je m'efforce de développer des solutions robustes et conviviales.
 
@@ -36,6 +36,9 @@ Je suis un développeur web fullstack passionné, spécialisé dans la création
  
 ##  Wakatime Stats
 [![wakatime](https://wakatime.com/badge/user/018ee0e1-4a0f-4f3e-bfe2-17035f109062.svg)](https://wakatime.com/@018ee0e1-4a0f-4f3e-bfe2-17035f109062)
+
+## Github Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/darwinnatha)
 <!--
 ## 💼 Projets Notables
 
