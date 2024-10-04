@@ -1,4 +1,4 @@
-# Bonjour, je suis Darwin Nathan 👋
+# Hello, I'm Darwin Nathan 👋
 
 <!--
 **darwinnatha/darwinnatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
