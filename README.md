@@ -1,28 +1,31 @@
-## Hi there 👋
+# Bonjour, je suis Darwin Nathan 👋
 
 <!--
 **darwinnatha/darwinnatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Bonjour, je suis Darwin Nathan 👋
 
 Je suis un développeur web fullstack passionné, spécialisé dans la création d'applications web performantes et évolutives. Avec une expertise dans des technologies modernes, je m'efforce de développer des solutions robustes et conviviales.
 
-## 🛠️ Technologies
+## 🔭 I’m currently using on ...
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## 🛠️ Technologies
 - **Langages :**
-  - PHP
-  - JavaScript
+  - ![JavaScript](https://img.shields.io/badge/-PHP-F7DF1E?style=flat&logo=PHP&logoColor=purple)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Frameworks et Bibliothèques :**
   - Laravel
@@ -39,16 +42,8 @@ Je suis un développeur web fullstack passionné, spécialisé dans la création
 
 ## Github Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/darwinnatha)
-<!--
-## 💼 Projets Notables
 
-### [Nom du projet 1](lien_vers_le_projet)
-- Description courte du projet. Technologies utilisées, fonctionnalités clés, etc.
-
-### [Nom du projet 2](lien_vers_le_projet)
-- Description courte du projet. Technologies utilisées, fonctionnalités clés, etc.
--->
-## 📫 Contactez-moi
+## 📫 How to reach me: ...
 
 - **Email :** [fotsodarwin@gmail.com](mailto:fotsodarwin@gmail.com)
 - **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/darwin-fotso/)
