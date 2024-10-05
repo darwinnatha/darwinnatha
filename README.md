@@ -49,6 +49,10 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/darwinnatha)
 
+## Gitlab Stats
+
+![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=fotsodarwin)
+
 ## 📫 How to reach me: ...
 
 - **Email :** [fotsodarwin@gmail.com](mailto:fotsodarwin@gmail.com)
