@@ -47,15 +47,15 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 ## Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/darwinnatha)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&count_private=true&hide=stars&theme=light&locale=fr)
 
 ## Most used Languages Stats
 
-![Darwin stats](https://github-readme-stats.vercel.app/api/top-langs?username=darwinnatha&show_icons=true&locale=en&layout=compact)
+![Darwin stats](https://github-readme-stats.vercel.app/api/top-langs?username=darwinnatha&show_icons=true&locale=fr)
 
 ## Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=darwinnatha)
+![GitHub Streak](https://streak-stats.demolab.com/?user=darwinnatha&locale=fr)
 
 ## Stats
 
