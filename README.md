@@ -49,9 +49,21 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/darwinnatha)
 
-## Gitlab Stats
+## Most used Languages Stats
 
-[![My Gitlab Stats](https://gitlab-readme-stats.vercel.app/api?username=fotsodarwin&show_icons=true&count_private=true&hide=stars&theme=light)]
+![Darwin stats](https://github-readme-stats.vercel.app/api/top-langs?username=darwinnatha&show_icons=true&locale=en&layout=compact)
+
+## Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=darwinnatha)
+
+## Stats
+
+![Stats](https://github-profile-trophy.vercel.app/?username=darwinnatha)
+
+## X
+
+[![My GitHub Stats](https://img.shields.io/twitter/follow/DarwinNatha?logo=twitter&style=for-the-badge)](https://twitter.com/DarwinNatha)
 
 ## 📫 How to reach me: ...
 
