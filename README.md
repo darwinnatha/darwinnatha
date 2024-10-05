@@ -51,7 +51,7 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 ## Gitlab Stats
 
-![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=fotsodarwin)
+[![My Gitlab Stats](https://gitlab-readme-stats.vercel.app/api?username=fotsodarwin&show_icons=true&count_private=true&hide=stars&theme=light)]
 
 ## 📫 How to reach me: ...
 
