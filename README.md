@@ -55,7 +55,7 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 ## Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=darwinnatha&locale=fr)
+![GitHub Streak](https://streak-stats.demolab.com/?user=darwinnatha&locale=fr&theme=tokyonight)
 
 ## Stats
 
