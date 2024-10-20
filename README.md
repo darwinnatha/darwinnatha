@@ -51,7 +51,7 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 ## Most used Languages Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwinnatha&layout=compact&bg_color=440,f7af11,073fff&text_color=fff&title_color=fff&icon_color=fff&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwinnatha&layout=compact&bg_color=440,f7ff11,073fff&text_color=fff&title_color=fff&icon_color=fff&show_icons=true)
 
 ## Streak Stats
 
