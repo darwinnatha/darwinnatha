@@ -47,7 +47,7 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 ## Github Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&hide=stars&count_private=true&include_all_commits=true&border_radius=10&bg_color=30,107faf,073fff&text_color=fff&title_color=fff&icon_color=fff)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=darwinnatha&show_icons=true&hide=stars&count_private=true&border_radius=10&bg_color=30,107faf,073fff&text_color=fff&title_color=fff&icon_color=fff)
 
 ## Most used Languages Stats
 
