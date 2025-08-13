@@ -69,8 +69,7 @@ I'm a young full stack developer passionate about creating performant and scalab
 
 - **Email :** [fotsodarwin@gmail.com](mailto:fotsodarwin@gmail.com)
 - **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/darwin-fotso/)
-- **Site Web :** [Mon Site Web](https://my.jd-devs.com/)
-<!--
+<!-- - **Site Web :** [Mon Site Web](https://my.jd-devs.com/)
 
 ## 🌱 En apprentissage
 
